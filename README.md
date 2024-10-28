@@ -14,7 +14,7 @@
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/sks006/DashboardFrontend.git`
+1. Clone the repository: `git clone https://github.com/sks006/FrontendDasboard.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 4. Build for production: `npm run build`
